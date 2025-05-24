@@ -1,0 +1,6 @@
+documents/*
+!documents/.gitkeep
+
+// files result embeddding
+index.faiss
+texts.pkl

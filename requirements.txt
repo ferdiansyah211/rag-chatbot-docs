@@ -1,0 +1,7 @@
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+flask
+llama-cpp-python
+pypdf
