@@ -6,7 +6,7 @@ An intelligent local chatbot that can answer questions based on stored documents
 
 ## 🚀 Features
 
-- 📄 Reads and processes local PDF policy documents.
+- 📄 Reads and processes local PDF documents.
 - 🔍 Answers questions based on document content.
 - 🔒 Fully local — documents and data are **not uploaded to the cloud**.
 - ⚡ Uses local AI models via Ollama (e.g., Mistral, LLaMA3, Command-R).
