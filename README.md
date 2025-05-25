@@ -1,6 +1,6 @@
-# 🧠 Company Policy Assistant
+# 🧠 RAG Chatbot Docs
 
-An intelligent local chatbot that can answer employee questions about internal company policies. This system leverages a local Large Language Model (LLM) via [Ollama](https://ollama.com) and uses Retrieval-Augmented Generation (RAG) to respond with accurate, document-based answers.
+An intelligent local chatbot that can answer questions based on stored documents. This system leverages a local Large Language Model (LLM) via [Ollama](https://ollama.com) and uses Retrieval-Augmented Generation (RAG) to respond with accurate, document-based answers.
 
 ---
 
